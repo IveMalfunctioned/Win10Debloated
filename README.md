@@ -1,6 +1,6 @@
 # Windows 10 Pro x64 Debloated
 
-This is my debloated version of Windows 10 Pro x64. It will only be builds based on 10 Pro for x86_64 architecture.
+This is my debloated version of Windows 10 Pro x64. I only create builds based on 10 Pro for x86_64 architecture.
 Disclaimer: This is not made for performance. It is made for convenience and to fix the issues with Microsoft's stock Windows 10 ISOs that they can't be bothered to fix.
 
 # Screenshot:
