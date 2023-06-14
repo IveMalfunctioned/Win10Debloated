@@ -12,8 +12,10 @@ Disclaimer: This is not made for performance. It is made for convenience and to 
 ⁯
 Downloads for this ISO can be found in the [releases tab](https://www.github.com/IveMalfunctioned/Win10Debloated/releases).
 
-⁯# Licensing
-Since I am in no way affiliated with Microsoft or the development of Windows and also do not hold any rights to Microsoft Windows, anyone is free to use this build however they like.
+## Licensing:
+Since I am in no way affiliated with Microsoft or the development of Windows and also do not hold any rights to Microsoft Windows, **the terms of use are the same as Microsoft's.**
+
+This includes: Basing your own mod off of this build, using it for commercial purposes, or for personal use.
 ⁯
 
 For more information on how this was created, join the [Windows Modding Discord](https://discord.gg/hzScjC9re6).
