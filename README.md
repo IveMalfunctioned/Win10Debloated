@@ -1,7 +1,9 @@
 # Windows 10 Debloated
 
-This is my debloated version of Windows 10 Pro x64. I only create builds based on 10 Pro for x86_64 architecture.
-Disclaimer: This is not made for performance. It is made for convenience and to fix the issues with Microsoft's stock Windows 10 ISOs that they can't be bothered to fix.
+### No Bullshit, Clean Windows 10
+
+This is my debloated and tweaked Windows 10. I only create builds based on 10 Pro x64-bit.
+This is not made specifically for performance. It is made for convenience and to fix the issues with Microsoft's stock Windows 10 ISOs that they can't be bothered to fix.
 
 # Screenshot:
 
