@@ -7,7 +7,7 @@ This is not made specifically for performance. It is made for convenience and to
 
 # Screenshot:
 
-![image](https://github.com/IveMalfunctioned/Win10Debloated/assets/20033421/d403fcb5-e0f5-426c-aeba-978cd53e80b7)
+![image](https://github.com/IveMalfunctioned/Win10Debloated/assets/20033421/a12ad2d8-dff0-4313-979d-42e252abe0c4)
 
 # Download and changelog:
 ⁯
